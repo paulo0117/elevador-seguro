@@ -1,0 +1,19 @@
+# Dados gerados ao rodar o programa (não é código)
+ocorrencias.json
+incidentes.csv
+
+# Arquivos que o Python cria sozinho
+__pycache__/
+*.pyc
+
+# Ambiente virtual, se alguém criar
+.venv/
+
+# Versão antiga do projeto, guardada só para consulta
+_antigo/
+
+# Notas pessoais de contexto (não vão para o GitHub)
+CONTEXTO-COWORK.md
+
+# Pasta criada pelo app do Claude (não é do projeto)
+Claude outputs/
